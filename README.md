@@ -38,6 +38,56 @@
 
 ---
 
+# 📸 Screenshots
+
+## Home Page
+
+<img src="sample/0.png" width="42%" >&nbsp;&nbsp;&nbsp;&nbsp;<img src="sample/1.png" width="42%" >
+<br><br>
+<img src="sample/3.png" width="42%" >&nbsp;&nbsp;&nbsp;&nbsp;<img src="sample/4.png" width="42%" >
+<br><br>
+<img src="sample/5.png" width="42%" >&nbsp;&nbsp;&nbsp;&nbsp;<img src="sample/6.png" width="42%" >
+<br>
+
+## Contact us/About us Page
+
+<img src="sample/7.png" width="42%" >&nbsp;&nbsp;&nbsp;&nbsp;<img src="sample/8.png" width="42%" >
+<br>
+
+## Menu/Cart Page
+
+<img src="sample/9.png" width="42%" >&nbsp;&nbsp;&nbsp;&nbsp;<img src="sample/10.png" width="42%" >
+<br>
+
+## Order History Page
+
+<img src="sample/11.png" width="42%" >&nbsp;&nbsp;&nbsp;&nbsp;<img src="sample/12.png" width="42%" >
+<br>
+
+## Log In/Sign Up Page
+
+<img src="sample/13.png" width="42%" >&nbsp;&nbsp;&nbsp;&nbsp;<img src="sample/14.png" width="42%" >
+
+## Admin Login Page
+
+<img src="sample/15.png" width="42%" >
+
+## Admin Home Page
+
+<img src="sample/16.png" width="42%" >&nbsp;&nbsp;&nbsp;&nbsp;<img src="sample/17.png" width="42%" >
+<br><br>
+<img src="sample/18.png" width="42%" >&nbsp;&nbsp;&nbsp;&nbsp;<img src="sample/19.png" width="42%" >
+<br>
+
+## Order List Page
+
+<img src="sample/20.png" width="42%" >
+
+## Menu List/Add Menu Page
+
+<img src="sample/21.png" width="42%" >&nbsp;&nbsp;&nbsp;&nbsp;<img src="sample/22.png" width="42%" >
+
+---
 # ☁ Remeber After Clonning
 
 Make Database and then create table using sql files uploaded here or Click <a href='https://github.com/YashikGarg/Espresso-Express/tree/main/database'>Here</a>
