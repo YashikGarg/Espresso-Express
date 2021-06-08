@@ -16,7 +16,8 @@
 - [x] <i>🔐 Login/Register Authentication</i> 
 - [x] <i>🐇 Form Validation Using Ajax</i> 
 - [x] <i>🔑 Password Stored Encrypted In Database Using PHP Encryption (Hash-12)</i> 
-- [x] <i>📧 Message is send to mail using <a href="https://github.com/PHPMailer/PHPMailer">PHP Mailer Libraray</a></i> 
+- [x] <i>📧 Message is send to mail using <a href="https://github.com/PHPMailer/PHPMailer">PHP Mailer Libraray</a></i>
+- [X] <i>☁ Forget Password :- Reset Password Link Send To your Mail</i>
 - [X] <i>🛒 cart and order functionality</i>
 - [X] <i>🧾 history order page</i>
 - [X] <i>🎫 admin portal</i> 
